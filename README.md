@@ -1,16 +1,29 @@
-## Hi there 👋
+# Jie   Hu
 
-<!--
-**jennyhu1/jennyhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate focused on backend systems, full-stack development, and structured software design.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Java, Python, C/C++, JavaScript
+- Backend Development: Java, JDBC
+- Databases: MySQL
+- Tools: Git, Unity
+- Machine Learning: Scikit-learn, Pandas, NumPy
+
+## Featured Projects
+
+### Spa Management System
+Backend business management system built with Java and MySQL.
+Focus: system architecture, relational database modeling, CRUD operations.
+
+### Supernatural Salon (Unity Game)
+Interactive game developed using Unity and C#.
+Focus: system logic, UI interaction, scene management.
+
+### Ames House Price Prediction
+Machine learning regression project using Scikit-learn.
+Focus: data preprocessing, model comparison, RMSE evaluation.
+
+---
+
+Actively seeking entry-level software engineering opportunities.
